@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pramod 
 - 👀 I’m interested in ADAS (Adavnce driving assistance systems) and AD (Autonomous driving)
 - 🌱 I’m currently learning implemention of data-driven developments in ADAS and AD
-- 💞️ I’m looking to collaborate on interests related to ADAS or AD
+- 💞️ I’m looking to collaborate on topics related to ADAS or AD
 - 📫 You can reach me pramodkumar.chinthala@gmail.com
 
 <!---
